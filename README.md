@@ -1,8 +1,8 @@
 # 🎬 Movies App
 
-A Flutter Movies Application built with Firebase and REST APIs.
+A modern Flutter Movies Application built with Firebase and REST APIs.
 
-The app allows users to browse movies, search for movies, view movie details, save favorite movies, track watch history, and manage their profile.
+The app allows users to browse movies, search for movies, explore movies by genre, view movie details, save favorite movies, track watch history, and manage their profile.
 
 ## 🚀 Features
 
@@ -32,12 +32,12 @@ The app allows users to browse movies, search for movies, view movie details, sa
 - Dart
 - Firebase Authentication
 - Cloud Firestore
-- REST API
+- REST APIs
 - Dio
 - BLoC / Cubit
-- Git & GitHub
 - Flutter ScreenUtil
 - Localization
+- Git & GitHub
 
 ## 📱 Main Screens
 
@@ -54,23 +54,51 @@ The app allows users to browse movies, search for movies, view movie details, sa
 - Profile
 - Update Profile
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="lib/screenshots/screenshot_1.jpg" width="220"/>
+  <img src="lib/screenshots/screenshot_2.jpg" width="220"/>
+  <img src="lib/screenshots/screenshot_3.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="lib/screenshots/screenshot_4.jpg" width="220"/>
+  <img src="lib/screenshots/screenshot_5.jpg" width="220"/>
+  <img src="lib/screenshots/screenshot_6.jpg" width="220"/>
+</p>
+
+<p align="center">
+  <img src="lib/screenshots/screenshot_7.jpg" width="220"/>
+</p>
+
 ## 🔥 Firebase
 
 Firebase is used for:
 
-- Authentication
+- User Authentication
 - Google Sign-In
 - User profile data
 - Favorite movies
 - Watch history
+- Cloud Firestore storage
 
 ## 🎥 Movie API
 
 Movie data is retrieved from the YTS Movies API.
 
+The API is used to display:
+
+- Movie titles
+- Posters
+- Ratings
+- Genres
+- Release dates
+- Movie details
+
 ## 👨‍💻 My Contribution
 
-I worked on multiple parts of the application including:
+This is a team project, and I worked on multiple parts of the application, including:
 
 - Firebase Authentication
 - Google Sign-In
@@ -89,9 +117,9 @@ The project is currently under development.
 
 ## 👤 Developer
 
-Omar Sabry  
+**Omar Sabry**  
 Flutter Developer
 
-Skills:
+### Skills
 
-Flutter • Dart • Firebase • REST APIs • Git & GitHub 
+Flutter • Dart • Firebase • REST APIs • Git & GitHub
